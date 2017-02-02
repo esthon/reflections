@@ -13,10 +13,10 @@ change?
 	transferindo apenas os arquivos relativos aquela mudança logica
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-	to experiment a modification without comprometing the main branch
+	to experiment a modification without comprometing the main brancht 
 	branches help to make it easier to create the modification while the main branch is intact
 How do the diagrams help you visualize the branch structure?
-
+	very well, it is a very good way to organize the work and vizualize it
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
