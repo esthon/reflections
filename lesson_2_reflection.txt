@@ -27,3 +27,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	it is very good and eficient to have git merging the branches. Also it is very good to 
+	know that if there is something wrong it will alert you.
